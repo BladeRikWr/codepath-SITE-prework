@@ -44,20 +44,23 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. **If you used any outside resources to help complete your submission (websites, books, people, etc) list them here**. 
 N/A
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. **What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)**
+
 I used ScreenToGif on Windows to record my GIF and kept running into issues where ScreenToGif would crash with a "out of memory" exception! Super weird.
 I poked around in the settings and played with the values a little bit to try and resolve the issue.
 For some reason, Windows didn't like the program using DirectX to record the screen (it's either that or ScreenToGif has a bad implemenetation of the DirectX library).
 I told ScreenToGif to use another recording library and was able to record my GIF with no interruptions!
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. **What questions about web development do you have after completing your submission? (recommended 100 - 300 words) **
+
 Is the DOM to the browser, much like machine code is to a processor? Further more, we code websites with languages like HTML, CSS, and JavaScript, can we classify these as high level languages compared to the DOM, much in the way that Python and Java are high level languages?
 Is web development really all about... websites? There has to be more to front end work... I guess that's what a designer role is like!
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. **If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) **
+
 I'd probably adopt a uniform color scheme for the app styling. A high score leaderboard would also be kinda cool. OH and I'd add a secret, 1x1 pixel button that would maybe do something weird to the browser, like start making the screen shake.
 
 
