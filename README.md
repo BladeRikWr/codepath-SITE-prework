@@ -4,7 +4,7 @@
 
 Submitted by: **Nathan Lim**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 Link to project: [https://glitch.com/edit/#!/lim-codepath-site](https://glitch.com/edit/#!/lim-codepath-site)
 
